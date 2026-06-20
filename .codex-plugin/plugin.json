@@ -1,0 +1,20 @@
+{
+  "name": "akiyama-children-photo",
+  "version": "0.1.0",
+  "description": "Prompt skill for candid analog children's documentary photo generation.",
+  "author": {
+    "name": "zlbigger-mini"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "儿童纪实照片生成器",
+    "shortDescription": "生成胶片感儿童纪实摄影提示词",
+    "longDescription": "A personal Codex plugin for creating prompt packs and art direction for relaxed, analog, child-centered documentary photographs inspired by everyday-life 1980s China references.",
+    "developerName": "zlbigger-mini",
+    "category": "Creative",
+    "capabilities": [
+      "skills"
+    ],
+    "defaultPrompt": "Use $akiyama-children-photo 生成一组自然抓拍的胶片感儿童纪实照片提示词。"
+  }
+}
