@@ -117,19 +117,20 @@ Useful options:
     └── akiyama-children-photo/
         ├── SKILL.md
         ├── agents/openai.yaml
+        ├── assets/reference-gallery/
         ├── references/style-guide.md
         └── scripts/engine.py
 ```
 
 ## Reference Images
 
-This public repository does not include third-party reference photos. If you have licensed or personal reference images, place them locally in:
+This repository includes an authorized reference gallery for studying composition, light, color, framing, and everyday documentary texture:
 
 ```text
 skills/akiyama-children-photo/assets/reference-gallery/
 ```
 
-That folder is ignored by Git to avoid accidentally republishing copyrighted material.
+If you fork, reuse, or redistribute the repository, make sure your use of the included images is covered by your own rights or permissions.
 
 ## Safety And Rights
 

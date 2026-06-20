@@ -3,10 +3,6 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 
-# Local-only reference images. Do not publish third-party photo references.
-skills/akiyama-children-photo/assets/reference-gallery/*
-!skills/akiyama-children-photo/assets/reference-gallery/.gitkeep
-
 # Generated previews and local scratch outputs.
 outputs/
 generated/
